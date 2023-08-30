@@ -1,9 +1,9 @@
-import Return from './components/return/Return'
+import History from './components/history/History'
 
 function App() {
   return (
     <div className="App">
-      <Return />
+      <History />
     </div>
   )
 }
